@@ -24,6 +24,15 @@ I'm learning Python, Git, GitHub, Data Structures & Algorithms, and other core c
 - Basic Programming Concepts
 - Computer Science Fundamentals
 
+### 💼 Experience
+
+Online Checkout Specialist — inDrive  
+*2 Years of Professional Experience*
+
+- Developed professional experience in a fast-paced technology-driven environment.
+- Worked with online processes, verification, and operational workflows.
+- Strengthened attention to detail, problem-solving, and communication skills.
+
 ### 📚 Education
 
 Bachelor of Computer Applications (BCA)  
